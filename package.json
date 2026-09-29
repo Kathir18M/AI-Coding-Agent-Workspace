@@ -1,0 +1,165 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "139d346e-9b1e-11f1-a5af-07148334e4be",
+      "name": null,
+      "resourceReferencesByFile": {
+        "/backend/analytics/aggregateDataset.ts": [],
+        "/backend/analytics/askQuestion.ts": [
+          {
+            "name": "d5727ad2-681f-4cfd-a8a1-9f66c9564183",
+            "displayName": "Anthropic",
+            "type": "anthropic"
+          },
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/chartHeuristics.ts": [],
+        "/backend/analytics/createWidget.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/deleteUploadedDataset.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/deleteWidget.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/getBusinessAnalytics.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/getDashboardStats.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/getHistory.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/getQueryById.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/getSchema.ts": [],
+        "/backend/analytics/getTableSample.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/getUploadedDatasetById.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/getWidgetChartData.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/health.ts": [
+          {
+            "name": "d5727ad2-681f-4cfd-a8a1-9f66c9564183",
+            "displayName": "Anthropic",
+            "type": "anthropic"
+          },
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/historyMapper.ts": [],
+        "/backend/analytics/listUploadedDatasets.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/listWidgets.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/previewWidgetData.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/rerunQuery.ts": [
+          {
+            "name": "d5727ad2-681f-4cfd-a8a1-9f66c9564183",
+            "displayName": "Anthropic",
+            "type": "anthropic"
+          },
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/runPipeline.ts": [
+          {
+            "name": "d5727ad2-681f-4cfd-a8a1-9f66c9564183",
+            "displayName": "Anthropic",
+            "type": "anthropic"
+          },
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/analytics/schemaInfo.ts": [],
+        "/backend/analytics/sqlSafety.ts": [],
+        "/backend/analytics/types.ts": [],
+        "/backend/analytics/uploadDataset.ts": [
+          {
+            "name": "830c1451-c460-4547-8c97-58aaa2f6be41",
+            "displayName": "retool_db",
+            "type": "retoolDb"
+          }
+        ],
+        "/backend/user.d.ts": []
+      }
+    }
+  }
+}
